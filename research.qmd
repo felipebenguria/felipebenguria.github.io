@@ -1,0 +1,146 @@
+---
+title: "Research"
+---
+
+<h2 class="research-section-heading">Publications</h2>
+
+::: {.publication}
+### 18) Trade Credit and Relationships
+<p style="font-weight: normal;">with Alvaro Garcia-Marin and Tim Schmidt-Eisenlohr.</p>
+<p class="pub-meta"><strong><em>Journal of Financial Economics</em></strong>, Vol. 183, September 2026.</p>
+<div class="pub-links"><a href="papers/18_jfe_bgs.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0304405X26000917)</div>
+:::
+
+::: {.publication}
+### 17) How to Grow an Invoicing Currency: Micro Evidence from Argentina
+<p style="font-weight: normal;">with Dennis Novy.</p>
+<p class="pub-meta">NBER International Seminar on Macroeconomics 2025. <strong><em>Journal of International Economics</em></strong>, 2026.</p>
+<div class="pub-links"><a href="papers/17_jie_bn.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199626000802)</div>
+:::
+
+::: {.publication}
+### 16) Spatial Linkages and the Uneven Effects of a Commodity Boom
+<p style="font-weight: normal;">with Felipe Saffie and Shihangyin Zhang.</p>
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 162, August 2026.</p>
+<div class="pub-links"><a href="papers/16_jie_bsz.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199626000772)</div>
+:::
+
+::: {.publication}
+### 15) Trade Policy Uncertainty
+<p class="pub-meta">Forthcoming, <strong><em>Oxford Research Encyclopedia of Economics and Finance</em></strong>.</p>
+:::
+
+::: {.publication}
+### 14) Escaping the Trade War: Finance and Relational Supply Chains in the Adjustment to Trade Policy Shocks
+<p style="font-weight: normal;">with Felipe Saffie.</p>
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 152, November 2024.</p>
+<div class="pub-links"><a href="papers/14_jie_bw.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199624001144)</div>
+:::
+
+::: {.publication}
+### 13) Trade Invoicing Currencies and Exchange Rate Pass-through: The Introduction of the Euro as a Natural Experiment
+<p style="font-weight: normal;">with Rodrigo Wagner.</p>
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 150, July 2024.</p>
+<div class="pub-links"><a href="papers/13_jie_bs.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199624000643)</div>
+:::
+
+::: {.publication}
+### 12) The Transmission of Commodity Price Super-Cycles
+<p style="font-weight: normal;">with Felipe Saffie and Sergio Urzua.</p>
+<p class="pub-meta"><strong><em>Review of Economic Studies</em></strong>, Vol. 91, Issue 4, July 2024.</p>
+<div class="pub-links"><a href="papers/12_restud_bsu.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.restud.com/the-transmission-of-commodity-price-super-cycles/)</div>
+:::
+
+::: {.publication}
+### 11) The Impact of NAFTA on U.S. Local Labor Market Employment
+<p class="pub-meta"><strong><em>Journal of Human Resources</em></strong>, Vol. 61, Issue 1, January 2026.</p>
+<div class="pub-links">[Journal](https://jhr.uwpress.org/content/61/1/1)</div>
+:::
+
+::: {.publication}
+### 10) The Global Impact of the U.S.-China Trade War: Firm-Level Evidence
+<p class="pub-meta"><strong><em>Review of World Economics</em></strong>, Vol. 159, Issue 4, November 2023.</p>
+<div class="pub-links">[Journal](https://link.springer.com/article/10.1007/s10290-022-00479-0)</div>
+:::
+
+::: {.publication}
+### 9) Decomposing the Effect of Trade on the Gender Wage Gap
+<p style="font-weight: normal;">with Josh Ederington.</p>
+<p class="pub-meta"><strong><em>Canadian Journal of Economics</em></strong>, Vol. 56, Issue 3, August 2023.</p>
+<div class="pub-links"><a href="papers/10_cje_be.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://onlinelibrary.wiley.com/doi/10.1111/caje.12668)</div>
+:::
+
+::: {.publication}
+### 8) Productivity and Trade Dynamics in Sudden Stops
+<p style="font-weight: normal;">with Felipe Saffie and Hidehiko Matsumoto.</p>
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 139, November 2022.</p>
+<div class="pub-links"><a href="papers/8_jie_bms.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199622000630)</div>
+:::
+
+::: {.publication}
+### 7) Do US Exporters Take Advantage of Free Trade Agreements? Evidence from the US-Colombia FTA
+<p class="pub-meta"><strong><em>Review of International Economics</em></strong>, Vol. 30, Issue 4, September 2022.</p>
+<div class="pub-links"><a href="papers/7_rie.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://onlinelibrary.wiley.com/doi/10.1111/roie.12598)</div>
+:::
+
+::: {.publication}
+### 6) Anxiety or Pain? The Impact of Tariffs and Uncertainty on Chinese Firms in the Trade War
+<p style="font-weight: normal;">with Jaerim Choi, Deborah Swenson, and Mingzhi Xu.</p>
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 137, July 2022.</p>
+<div class="pub-links"><a href="papers/6_jie_bcsx.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S002219962200040X)</div>
+:::
+
+::: {.publication}
+### 5) The 2020 Trade Collapse: Exporters Amid the Pandemic
+<p class="pub-meta"><strong><em>Economics Letters</em></strong>, Vol. 205, August 2021.</p>
+<div class="pub-links"><a href="papers/5_ecletters.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S016517652100238X)</div>
+:::
+
+::: {.publication}
+### 4) The Matching and Sorting of Exporting and Importing Firms: Theory and Evidence
+<p class="pub-meta"><strong><em>Journal of International Economics</em></strong>, Vol. 131, July 2021.</p>
+<div class="pub-links"><a href="papers/4_jie.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199621000052)</div>
+:::
+
+::: {.publication}
+### 3) After the Panic: Do Financial Crises Cause Demand or Supply Shocks? Evidence from International Trade
+<p style="font-weight: normal;">with Alan M. Taylor.</p>
+<p class="pub-meta"><strong><em>American Economic Review: Insights</em></strong>, Vol. 2, No. 4, December 2020.</p>
+<div class="pub-links"><a href="papers/3_aeri.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.aeaweb.org/articles?id=10.1257/aeri.20190533)</div>
+:::
+
+::: {.publication}
+### 2) Labor Earnings Inequality in Manufacturing during the Great Depression
+<p style="font-weight: normal;">with Chris Vickers and Nicolas Ziebarth.</p>
+<p class="pub-meta"><strong><em>Journal of Economic History</em></strong>, Vol. 80, Issue 2, June 2020.</p>
+<div class="pub-links"><a href="papers/2_jeh_bvz.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/labor-earnings-inequality-in-manufacturing-during-the-great-depression/935FF763211656E03CAF425BDAD7A7AA)</div>
+:::
+
+::: {.publication}
+### 1) Firms and the Decline in Earnings Inequality in Brazil
+<p style="font-weight: normal;">with Jorge Alvarez, Niklas Engbom, and Christian Moser.</p>
+<p class="pub-meta"><strong><em>American Economic Journal: Macroeconomics</em></strong>, Vol. 10, No. 1, January 2018.</p>
+<div class="pub-links"><a href="papers/1_aejmacro_abem.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.aeaweb.org/articles?id=10.1257/mac.20150355)</div>
+:::
+
+<h2 class="research-section-heading">Working Papers</h2>
+
+::: {.publication}
+### Geopolitical Fragmentation, Sovereign Debt, and Dollar Dominance
+<p style="font-weight: normal;">with Eugenio Rojas and Felipe Saffie.</p>
+:::
+
+::: {.publication}
+### Rounding Up the Effect of Tariffs on Financial Markets: Evidence from April 2, 2025
+<p style="font-weight: normal;">with Felipe Saffie.</p>
+:::
+
+::: {.publication}
+### Beyond Tariffs: How Did China’s State-Owned Enterprises Shape the U.S.-China Trade War?
+<p style="font-weight: normal;">with Felipe Saffie.</p>
+:::
+
+::: {.publication}
+### The Impact of the 2018-2019 Trade War on U.S. Local Labor Markets
+<p style="font-weight: normal;">with Felipe Saffie.</p>
+:::

@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+<div class="actions">
+<a href="files/Felipe_Benguria_CV.pdf">Download CV (PDF)</a>
+</div>
+
+<iframe class="cv-frame" src="files/Felipe_Benguria_CV.pdf" title="Felipe Benguria curriculum vitae"></iframe>

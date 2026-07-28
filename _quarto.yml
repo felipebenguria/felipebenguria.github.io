@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Felipe Benguria"
+  site-url: "https://felipebenguria.com"
+  search: false
+  favicon: assets/felipe-benguria.jpg
+  navbar:
+    background: white
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: "© 2026 Felipe Benguria"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Felipe Benguria, Associate Professor and Gatton Endowed Professor of Economics at the University of Kentucky. Research in international trade and international finance.">
+
+execute:
+  freeze: auto

@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+<div class="section-lead">Please find the materials for these courses on Canvas.</div>
+
+<h2 class="research-section-heading">Undergraduate</h2>
+
+- The Global Economy (ECO 370)
+- International Trade (ECO 471)
+- Industrial Organization (ECO 461)
+
+
+<h2 class="research-section-heading">Graduate</h2>
+
+- International Finance (ECO 771)
+- International Trade (ECO 772)

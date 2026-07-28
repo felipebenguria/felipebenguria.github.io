@@ -1,0 +1,56 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+::: {}
+# Felipe Benguria
+
+<div class="intro">
+I am Associate Professor and Gatton Endowed Professor of Economics at the Department of Economics, Gatton College of Business, University of Kentucky. My research has been published in journals including The Review of Economic Studies, American Economic Review: Insights, American Economic Journal: Macroeconomics, Journal of Financial Economics, and Journal of International Economics. I have been a visitor, speaker or consultant at institutions including the IMF, the World Bank, the Inter-American Development Bank, and various central banks around the world. My research has been featured in The Economist, The Wall Street Journal, The Financial Times, and other media outlets. 
+</div>
+
+<div class="actions">
+<a href="files/Felipe_Benguria_CV.pdf">Download CV</a>
+<a href="https://scholar.google.com/citations?user=NeIc7rkAAAAJ">Google Scholar</a>
+</div>
+
+<div class="contact-email">Email: fbe225@uky.edu</div>
+:::
+
+![](assets/felipe-benguria.jpg){.hero-photo alt="Felipe Benguria"}
+:::
+
+## Some recent publications
+
+::: {.paper-grid}
+::: {.paper-card}
+### The Transmission of Commodity Price Super-Cycles
+<div class="meta">with Felipe Saffie and Sergio Urzua · **_Review of Economic Studies_**, 2024</div>
+
+<div class="links"><a href="papers/12_restud_bsu.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.restud.com/the-transmission-of-commodity-price-super-cycles/)</div>
+:::
+
+::: {.paper-card}
+### Trade Credit and Relationships
+<div class="meta">with Alvaro Garcia-Marin and Tim Schmidt-Eisenlohr · **_Journal of Financial Economics_**, 2026</div>
+
+<div class="links"><a href="papers/18_jfe_bgs.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0304405X26000917)</div>
+:::
+
+::: {.paper-card}
+### How to Grow an Invoicing Currency: Micro Evidence from Argentina
+<div class="meta">with Dennis Novy · **_Journal of International Economics_**, 2026</div>
+
+<div class="links"><a href="papers/17_jie_bn.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199626000802)</div>
+:::
+
+::: {.paper-card}
+### Spatial Linkages and the Uneven Effects of a Commodity Boom
+<div class="meta">with Felipe Saffie an Shihangyin Zhang · **_Journal of International Economics_**, 2026</div>
+
+<div class="links"><a href="papers/16_jie_bsz.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0304405X26000917)</div>
+:::
+:::
+
