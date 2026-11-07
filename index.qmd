@@ -60,6 +60,14 @@ Thanks for visiting my website. I am Associate Professor and Gatton Endowed Prof
 
 <div class="links"><a href="papers/14_jie_bw.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199624001144)</div>
 :::
+
+
+::: {.paper-card}
+### Trade Invoicing Currencies and Exchange Rate Pass-through: The Introduction of the Euro as a Natural Experiment
+<div class="meta">with Rodrigo Wagner · **_Journal of International Economics_**, 2024</div>
+
+<div class="links"><a href="papers/13_jie_bs.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199624000643)</div>
+:::
 :::
 
 ## Recent Presentations
