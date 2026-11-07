@@ -48,7 +48,7 @@ Thanks for visiting my website. I am Associate Professor and Gatton Endowed Prof
 
 ::: {.paper-card}
 ### Spatial Linkages and the Uneven Effects of a Commodity Boom
-<div class="meta">with Felipe Saffie an Shihangyin Zhang · **_Journal of International Economics_**, 2026</div>
+<div class="meta">with Felipe Saffie and Shihangyin Zhang · **_Journal of International Economics_**, 2026</div>
 
 <div class="links"><a href="papers/16_jie_bsz.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0304405X26000917)</div>
 :::
