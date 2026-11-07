@@ -55,10 +55,10 @@ Thanks for visiting my website. I am Associate Professor and Gatton Endowed Prof
 
 
 ::: {.paper-card}
-### How to Grow an Invoicing Currency: Micro Evidence from Argentina
-<div class="meta">with Dennis Novy · **_Journal of International Economics_**, 2026</div>
+### Escaping the Trade War: Finance and Relational Supply Chains in the Adjustment to Trade Policy Shocks
+<div class="meta">with Felipe Saffie · **_Journal of International Economics_**, 2024</div>
 
-<div class="links"><a href="papers/17_jie_bn.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199626000802)</div>
+<div class="links"><a href="papers/14_jie_bw.pdf" target="_blank" rel="noopener">PDF</a> · [Journal](https://www.sciencedirect.com/science/article/pii/S0022199624001144)</div>
 :::
 :::
 
